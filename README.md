@@ -48,6 +48,7 @@ an enhanced Python kit for skids 🤡🤡
 - We will not be held responsible for anything you do with this product.  
 - Educational purposes only.
 - We have the right to blacklist you from our premium version at any point.
+- Any attempt to unobfuscated or decompile our source will get you blacklisted for a life time.
 
 
 <h2 align="center"> Copyright © 2022 - 2023
