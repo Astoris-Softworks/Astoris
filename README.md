@@ -19,7 +19,7 @@ an enhanced Python kit for skids 🤡🤡
  
 - ### 💬 Join Discord : [Astoris Communist Party](https://discord.gg/ZfJAbteux7) 
 
-### 📌: Public Tools !
+### 📌: Private Tools !
 ----
 `PRIVATE , PAID , PYTHON , JOIN DISCORD`
 
