@@ -8,7 +8,8 @@ an enhanced Python kit for skids 🤡🤡
 
 ## 🔎 〢 How To Use 
 - Get help on how to use Astoris in our [Discord](https://discord.gg/ZfJAbteux7).  
-[Download v1 Zip (not premium/v2)](https://github.com/Code1Tech/SkiddyKit/archive/refs/heads/main.zip)
+[Download v1 Zip (not premium/v2)](https://github.com/Code1Tech/SkiddyKit/archive/refs/heads/main.zip)  
+[Buy Astoris (v2) for $5](https://discord.gg/ZfJAbteux7)
 
   <p align="center">
     <a href="https://discord.com/users/676960182621962271">
