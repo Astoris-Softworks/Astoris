@@ -16,7 +16,7 @@ an enhanced Python kit for skids 🤡🤡
     </a>
 </p> 
  
-- ### 💬 Join Discord : [The Great Skidnation](https://discord.gg/ZfJAbteux7) 
+- ### 💬 Join Discord : [Astoris Communist Party](https://discord.gg/ZfJAbteux7) 
 
 ### 📌: Public Tools !
 ----
