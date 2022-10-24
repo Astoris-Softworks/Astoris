@@ -25,6 +25,9 @@ an enhanced Python kit for skids 🤡🤡
 - It is safe; we do not log anything from our users.
 - Astoris (v2) is paid. The source is obfuscated.
 
+### 💵 : Price
+`LIFETIME KEY , $5`
+- Astoris (v2) is $5 for a lifetime key. You can buy it [here](https://discord.gg/ZfJAbteux7).
 
 ### ✅: Current Features
 ----
@@ -36,6 +39,8 @@ an enhanced Python kit for skids 🤡🤡
 | Dox     | :white_check_mark: |
 | Recon   | 🔃 In progress... |
 | (D)Dos  | 🔃 In progress... |
+| Spam    | 🔃 In progress... |
+*To read about each of the features (what features are in each group, etc.), click [here](/FEATURES.md)*
 
 ### 🛑: ToS 
 ----
