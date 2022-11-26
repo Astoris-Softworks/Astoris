@@ -7,9 +7,9 @@ an enhanced Python kit for skids 🤡🤡
 
 
 ## 🔎 〢 How To Use 
-- Get help on how to use Astoris in our [Discord](https://discord.gg/ZfJAbteux7).  
+- Get help on how to use Astoris in our [Discord](https://discord.gg/SX2HwKYKss).  
 [Download v1 Zip (not premium/v2)](https://github.com/Code1Tech/SkiddyKit/archive/refs/heads/main.zip)  
-[Buy Astoris (v2) Lifetime Key for $5](https://discord.gg/ZfJAbteux7)
+[Buy Astoris (v2) Lifetime Key for $5](https://discord.gg/SX2HwKYKss)
  
 - ### 💬 Join Discord : [Astoris Communist Party](https://discord.gg/ZfJAbteux7)  
 <p align="center">
@@ -27,7 +27,7 @@ an enhanced Python kit for skids 🤡🤡
 
 ### 💵 : Price
 `LIFETIME KEY , $5`
-- Astoris (v2) is $5 for a lifetime key. You can buy it [here](https://discord.gg/ZfJAbteux7).
+- Astoris (v2) is $5 for a lifetime key. You can buy it [here](https://discord.gg/SX2HwKYKss).
 
 ### ✅: Current Features
 ----
@@ -53,4 +53,4 @@ an enhanced Python kit for skids 🤡🤡
 
 <h2 align="center"> Copyright © 2022 - 2023
 
-##### <p align="center">  JOIN DISCORD [HERE](https://discord.gg/ZfJAbteux7)
+##### <p align="center">  JOIN DISCORD [HERE](https://discord.gg/SX2HwKYKss)
